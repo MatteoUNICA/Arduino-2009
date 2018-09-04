@@ -1,11 +1,3 @@
-// Amblone code for the Arduino Mega
-// Author: Bart van der Drift
-
-// License:
-// Anyone is free to change, redistribute or copy parts of this code
-// as long as it is not for commercial purposes
-// Please be so kind to pay credit where due
-
 //---------------------------------------------------------------------------
 //---------------------------------- DEFINES --------------------------------
 //---------------------------------------------------------------------------
